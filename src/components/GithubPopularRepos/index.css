@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 20px;
+}
+.heading {
+  text-align: center;
+  font-size: 32px;
+  font-family: 'Lobster';
+  color: #0f172a;
+  margin-bottom: 35px;
+}
+.language-item-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.respository-items-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.loader-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
